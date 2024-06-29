@@ -10,8 +10,8 @@ body.signin {
 	background-size:cover
 }
 .signinpanel {
-	width:750px;
-	margin:10% auto 0;
+	width:650px;
+	margin:15% auto 0;
 	color:rgba(255,255,255,.95)
 }
 .signinpanel .logopanel {
