@@ -3,7 +3,7 @@ html {
 }
 body.signin {
 	height:auto;
-	background:url(../img/login-background.jpg) no-repeat center fixed;
+	background:url(../img/login-background2.jpg) no-repeat center fixed;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
 	-o-background-size:cover;
@@ -19,6 +19,11 @@ body.signin {
 	width:auto;
 	padding:0;
 	background:0 0
+}
+
+.signinpanel .logopanel img {
+    width: 125px;
+    height: 92px;
 }
 .signinpanel .signin-info ul {
 	list-style:none;
